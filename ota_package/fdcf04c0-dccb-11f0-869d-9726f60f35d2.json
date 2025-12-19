@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : null,
+    "checksumAlgorithm" : null,
+    "contentType" : null,
+    "data" : null,
+    "dataSize" : null,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "09961f50-c7a5-11f0-86b8-4d4474c0a366"
+    },
+    "externalId" : null,
+    "fileName" : null,
+    "hasData" : false,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "fdcf04c0-dccb-11f0-869d-9726f60f35d2"
+    },
+    "name" : "2ndone",
+    "tag" : "2ndone 2.0.0",
+    "title" : "2ndone",
+    "type" : "FIRMWARE",
+    "url" : "https://raw.githubusercontent.com/aeoank/thingsboard/main/temp_gprs.bin",
+    "version" : "2.0.0"
+  }
+}
